@@ -17,3 +17,20 @@ The "Questions Answering with PDF using LLMs" project aims to build a system tha
 4. Groq (API Key, LLMs)
 5. Chroma (Vector DataBase)
 6. Streamlit
+
+## Installation 
+To install the repository, please clone this repository and install the requirements:
+
+```pip install -r requirements.txt```
+
+
+## Usage
+To run this application, run app.py using Streamlit as 
+
+```streamlit run app.py```
+
+You need to provide a GROQ Api Key first. Then you can upload any pdfs and extract the information. 
+
+
+## Contact 
+For any feedback or queries, please reach out to me at [LinkedIn](https://www.linkedin.com/in/krishnakumaragrawal/)
